@@ -1,6 +1,6 @@
 package edu.ncsu.monopoly;
 //Añadimos comentario de nuevo hoy jueves 24
-//I have added one comment
+//I have added a comment
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
